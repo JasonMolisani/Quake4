@@ -23,5 +23,17 @@
 14. Click mods in the lower horizontal menu
 15. Select "fireemblemmod" and click "Load Mod"
 
+## Current Sub-Branches
+- FE_player_to_camera
+  - Turn off player gravity (TBD)
+  - Turn off player collision (TBD)
+  - Add controls to adjust player height (TBD)
+- FE_GUI_updates
+  - TBD
+- FE_Mob_AI
+  - Disable for now (TBD)
+- FE_player_control
+  - Set up player interface to send commands to other units (TBD)
+
 OTher Notes:
 Check out Shining Force 1 & 2 (SEGA)
